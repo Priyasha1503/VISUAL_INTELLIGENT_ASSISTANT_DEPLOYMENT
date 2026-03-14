@@ -1,0 +1,6 @@
+streamlit
+openai
+pandas
+pillow
+PyPDF2
+SpeechRecognition
